@@ -1,0 +1,7 @@
+CARA PAKAI
+1. Taruh file lagu bernama lagu.mp3 di folder ini (sejajar dengan galeri-3d.html).
+2. Klik dua kali galeri-3d.html untuk membukanya di browser.
+3. Klik "Putar lagu" (browser tidak mengizinkan lagu berbunyi sendiri sebelum diklik).
+
+Mengganti foto: timpa file di folder foto (1.jpg, 2.jpg, dst.) dengan nama yang sama.
+Menambah foto: tambah nama file baru pada baris "var MINE=[...]" di galeri-3d.html.
